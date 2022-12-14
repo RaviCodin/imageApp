@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c75ffc69.css",
+    "main.js": "/static/js/main.2b84a31c.js",
+    "static/js/787.fb94ebe7.chunk.js": "/static/js/787.fb94ebe7.chunk.js",
+    "static/media/screen.jpg": "/static/media/screen.efde6b87ed56dd7c28f7.jpg",
+    "static/media/wp2612016-full-hd-wallpaper-downlord.jpg": "/static/media/wp2612016-full-hd-wallpaper-downlord.40a1d37e0f0eaad72292.jpg",
+    "static/media/logoImageWorld.png": "/static/media/logoImageWorld.957a52f319438ccadf01.png",
+    "static/media/logo.png": "/static/media/logo.7e91b946f0c8c1daf253.png",
+    "static/media/Arts.jfif": "/static/media/Arts.a58f9aa910a857c8e3f4.jfif",
+    "static/media/Nature.jfif": "/static/media/Nature.db811267ffa7de0eb8f4.jfif",
+    "static/media/download.jfif": "/static/media/download.91f82ecfc1032a247fc3.jfif",
+    "index.html": "/index.html",
+    "main.c75ffc69.css.map": "/static/css/main.c75ffc69.css.map",
+    "main.2b84a31c.js.map": "/static/js/main.2b84a31c.js.map",
+    "787.fb94ebe7.chunk.js.map": "/static/js/787.fb94ebe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c75ffc69.css",
+    "static/js/main.2b84a31c.js"
+  ]
+}
